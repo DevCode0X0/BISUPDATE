@@ -4,5 +4,8 @@
 #   dengan urutan prioritas berikut, dari tertinggi ke terendah.
 
 
+# Pengecualian folder Updater untuk proses update BIS
+/Updater/
+
 # Pengecualian update untuk folder Revisi
 /Revisi/
