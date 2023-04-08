@@ -1,8 +1,8 @@
-# Update BIS version.
+Update BIS version.
 
-# Last Update V1.0.1002 08 April 2023.
+ast Update V1.0.1002 08 April 2023.
 
-# Client akan terlebih dahulu melakukan cek sesuai file version.ini dan apabila versi tidak sama, proses update akan berjalan otomatis.
+Client akan terlebih dahulu melakukan cek sesuai file version.ini dan apabila versi tidak sama, proses update akan berjalan otomatis.
 
-# Added file .gitignore untuk pencatatan pengecualian file dan folder dari proses update.
+dded file .gitignore untuk pencatatan pengecualian file dan folder dari proses update.
 
