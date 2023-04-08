@@ -8,21 +8,21 @@ Added file .gitignore untuk pencatatan pengecualian file dan folder dari proses 
 
 ## Standard penamaan folder
 
--ProgramLOCAL
- -Reports
- -ReportsGL
- -ReportsGL2
--ProgramWEB
- -Reports
- -ReportsGL
- -ReportsGL2
--ProgramATS
- -ATS
-   -Reports
-   -ReportsGL
-   -ReportsGL2
- -ATS-SQL
-   -Reports
-   -ReportsGL
-   -ReportsGL2
+├── ProgramLOCAL
+ ├── Reports
+ ├── ReportsGL
+ ├── ReportsGL2
+├── ProgramWEB
+ ├── Reports
+ ├── ReportsGL
+ ├── ReportsGL2
+├── ProgramATS
+ ├── ATS
+   ├── Reports
+   ├── ReportsGL
+   ├── ReportsGL2
+├── ATS-SQL
+   ├── Reports
+   ├── ReportsGL
+   ├── ReportsGL2
 
