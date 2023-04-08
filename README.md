@@ -6,7 +6,7 @@ Client akan terlebih dahulu melakukan cek sesuai file version.ini dan apabila ve
 
 Added file .gitignore untuk pencatatan pengecualian file dan folder dari proses update.
 
-## Standard penamaan folder
+## Standard penamaan folder (klik views as Raw untuk melihat lebih jelas folder struktur !)
 
 .
 ├── ProgramLOCAL
