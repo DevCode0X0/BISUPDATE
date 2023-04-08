@@ -1,6 +1,6 @@
 Update BIS version.
 
-ast Update V1.0.1002 08 April 2023.
+Last Update V1.0.1002 08 April 2023.
 
 Client akan terlebih dahulu melakukan cek sesuai file version.ini dan apabila versi tidak sama, proses update akan berjalan otomatis.
 
