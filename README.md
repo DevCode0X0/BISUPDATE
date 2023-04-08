@@ -22,7 +22,7 @@ Added file .gitignore untuk pencatatan pengecualian file dan folder dari proses 
    ├── Reports
    ├── ReportsGL
    ├── ReportsGL2
-├── ATS-SQL
+ ├── ATS-SQL
    ├── Reports
    ├── ReportsGL
    ├── ReportsGL2
