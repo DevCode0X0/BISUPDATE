@@ -3,4 +3,6 @@
 #   Git biasanya memeriksa pola gitignore dari berbagai sumber,
 #   dengan urutan prioritas berikut, dari tertinggi ke terendah.
 
+
+# Pengecualian update untuk folder Revisi
 /Revisi/
