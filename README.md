@@ -8,6 +8,7 @@ Added file .gitignore untuk pencatatan pengecualian file dan folder dari proses 
 
 ## Standard penamaan folder
 
+.
 ├── ProgramLOCAL
  ├── Reports
  ├── ReportsGL
