@@ -1,0 +1,6 @@
+# Fungsi file ini untuk menandai file atau folder dari pengecualian download/update.
+# Setiap baris dalam file gitignore menentukan sebuah pola. Saat memutuskan apakah akan mengabaikan suatu jalur,
+#   Git biasanya memeriksa pola gitignore dari berbagai sumber,
+#   dengan urutan prioritas berikut, dari tertinggi ke terendah.
+
+/Revisi/
