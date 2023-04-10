@@ -1,0 +1,7 @@
+Batch	String	20
+TGL1	DateTime
+Keterangan	String	100
+QtyR	Currency
+QtyP	Currency
+Biaya	Currency
+Bahan	Currency
