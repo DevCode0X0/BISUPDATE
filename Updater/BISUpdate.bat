@@ -1,6 +1,6 @@
 @echo off
 
-echo "BIS Updater V1.0.102 08 April 2023"
+echo "BIS Updater V1.0.103 11 April 2023"
 timeout 3
 
 IF EXIST BISUPDATE RMDIR BISUPDATE
@@ -15,8 +15,7 @@ timeout 2
 cls
 setlocal
 
-REM 1.Copy bis.exe ke folder yang sama
-echo f | xcopy /f /y BISUPDATE\bis.exe bis.exe
+
 REM Selesai baris "1"
 
 REM 2. Periksa ketersediaan tiap folder BIS, apabila ada maka akan ikut dicopy
